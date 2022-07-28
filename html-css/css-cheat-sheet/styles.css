@@ -1,0 +1,34 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lavender;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: darkblue;
+    text-align: center;
+}
+
+table {
+    border: 2px solid palevioletred;
+    border-radius: 10px;
+    width: 700px;
+    margin: 0 auto;
+}
+
+thead {
+    background-color: powderblue;
+}
+
+td {
+    border-top: 2px solid palevioletred;
+    border-right: 1px solid palevioletred;
+}
+
+.code {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: peachpuff;
+}
